@@ -7,7 +7,7 @@
   <groupId>io.github.opendataio</groupId>
   <artifactId>libcephfs</artifactId>
   <packaging>jar</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>libcephfs</name>
   <url>https://github.com/opendataio/libcephfs</url>
   <description>A java API for cephfs.</description>
